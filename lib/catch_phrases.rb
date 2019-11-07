@@ -13,6 +13,8 @@ def link
   puts give_sword
 end 
 
-def any_phrase 
-  
+def any_phrase(phrase)
+  slippy = "Do A Barrel Roll!"
+  puts slippy
+end
  
